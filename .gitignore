@@ -1,0 +1,8 @@
+# node modules ignore
+node_modules
+.env
+public/pdf
+
+# gmail bot
+credentials.json
+token.json
